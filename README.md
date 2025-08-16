@@ -56,10 +56,10 @@ pip install -r requirements.txt
 
 Here below you can witness the output plots of my code:
 
-![MSE Loss fucntions](plots/loss_plot.png)
+![MSE Loss fucntions](figures/loss_plot.png)
 *Figure 1: train loss, test loss and validation loss plots*
 
-![Regression plots](plots/regressions.png)
+![Regression plots](figures/regressions.png)
 *Figure 2: Regression plots.*
 
 ---
